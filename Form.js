@@ -66,4 +66,4 @@ function ValidateEmail(){
             setTimeout(function () {Submiterroe.style.display= 'none';} , 5000)
         return false;
     }
-  *
+  
